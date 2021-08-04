@@ -1,0 +1,9 @@
+{
+  "name": "express-server",
+  "version": "1.0.0",
+  "description": "Server with nodejs and express",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
